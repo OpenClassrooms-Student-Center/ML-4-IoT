@@ -9,7 +9,7 @@
 
 *Ce dépôt contient les différent tutoriels à exécuter en suivant le cours.*
 
-**Attention** leur exécution nécessite un environnement de travail adapté. Deux solutions sont possibles. 
+Leur exécution nécessite un environnement de travail adapté. Deux solutions sont possibles. 
 
 - utilisation rudimentaire de *Google Colab*
 - Utilisation experte des notebooks d'un dépôt Github après installation de Python et clonage du dépôt.
@@ -34,3 +34,5 @@
     - Aller dans le bon répertoire cloné ou chargé
     - Ouvrir le *notebook* 
     - Dérouler le tutoriel
+
+**Attention** l'utilisation de *Google Colab* nécessite une connexion internet correcte contrairement à une exécution en locale une fois le dépôt *Github* chargé ou clôné. De plus les fichiers de données sont nécessairement chargés sur internet  pour chaque tutoriel.
